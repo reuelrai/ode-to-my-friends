@@ -5,7 +5,10 @@ function App() {
 
   return (
     <>
-      
+      <div className="container">
+        <h1>Ode to my Friends</h1>
+        <p>Yo <strong>Bhumi</strong> ek <strong>Shristi</strong> ko Sundharta</p>
+      </div>
     </>
   )
 }
